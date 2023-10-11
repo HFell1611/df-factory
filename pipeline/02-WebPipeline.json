@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": "https://datalakehfdp203.blob.core.windows.net/csv/Log.csv",
+					"url": "https://datalakehfdp203.blob.core.windows.net/csv/Customer/Customer01.csv",
 					"method": "GET"
 				}
 			}
